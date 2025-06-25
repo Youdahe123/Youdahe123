@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Who am i?:
 👋 Hey, I'm Youdahe Asfaw!<br>I'm a CS Student passionate about full-stack development, data science, and automation—building tools to make life more efficient.<br><br>🔭 Currently working on a full-stack coding platform for kids<br>🌱 Learning JavaScript, MySQL, and AI integration<br>👯 Open to collaborating on web apps & AI projects<br>🤔 Looking for help with Chrome extensions & AI chatbots<br>💬 Ask me about web dev, data, and internships<br>⚡ Fun fact: Born in Ethiopia, love anime & basketball<br>🚀 Always learning, building, and growing!
 
 
