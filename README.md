@@ -1,20 +1,18 @@
-<!-- Animated typing badge -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Youdahe+Asfaw!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Youdahe" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://giphy.com/gifs/ryKkajMOMjYCQ">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVwa2ppaDR3dnVnNG40bmV0YXh2ZzlnZTQ0M3hjY3BhdHl1Y3BqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ryKkajMOMjYCQ/giphy.gif" width="400"/>
+  </a>
+</p>
+
+<p align="center">
+  🎓 Computer Science Student passionate about full-stack development, data science, and building tools that make life more efficient.
 </p>
 
 ---
-
-<table>
-  <tr>
-    <td width="200" align="center">
-      <a href="https://giphy.com/gifs/ryKkajMOMjYCQ">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVwa2ppaDR3dnVnNG40bmV0YXh2ZzlnZTQ0M3hjY3BhdHl1Y3BqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ryKkajMOMjYCQ/giphy.gif" width="160"/>
-      </a>
-      <br/>
-      <sub>Me when I see cool code 😆</sub>
-    </td>
-    <td valign="top">
 
 ## 🛠️ Tech Stack
 
@@ -52,7 +50,3 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>  
 <img src="https://img.shields.io/badge/yfinance-3D3D3D?style=flat"/>  
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
-
-</td>
-  </tr>
-</table>
