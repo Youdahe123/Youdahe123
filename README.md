@@ -46,9 +46,11 @@
 
 ---
 
-## 🎬 Just for Fun
 
-[![Watch the GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5nMGgyNWZiaTE1andyaW42YjU1NXhscHQwbWp3dWw1cXgzemt3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IglQkzvuewsoD6E1Pj/giphy.gif)](https://giphy.com/gifs/IglQkzvuewsoD6E1Pj)
+
+<a href="https://giphy.com/gifs/IglQkzvuewsoD6E1Pj">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5nMGgyNWZiaTE1andyaW42YjU1NXhscHQwbWp3dWw1cXgzemt3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IglQkzvuewsoD6E1Pj/giphy.gif" width="300"/>
+</a>
 
 > LeBron having one of those days... 😆
 
