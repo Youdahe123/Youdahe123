@@ -1,4 +1,7 @@
 # 👋 Hey, I'm Youdahe Asfaw!
+<a href="https://giphy.com/gifs/IglQkzvuewsoD6E1Pj">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5nMGgyNWZiaTE1andyaW42YjU1NXhscHQwbWp3dWw1cXgzemt3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IglQkzvuewsoD6E1Pj/giphy.gif" width="300"/>
+</a>
 
 🎓 **Computer Science Student** passionate about full-stack development, data science, and building tools that make life more efficient.
 
@@ -43,14 +46,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![yfinance](https://img.shields.io/badge/yfinance-3D3D3D?style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-
----
-
-
-
-<a href="https://giphy.com/gifs/IglQkzvuewsoD6E1Pj">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5nMGgyNWZiaTE1andyaW42YjU1NXhscHQwbWp3dWw1cXgzemt3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IglQkzvuewsoD6E1Pj/giphy.gif" width="300"/>
-</a>
 
 > LeBron having one of those days... 😆
 
