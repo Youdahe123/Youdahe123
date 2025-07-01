@@ -14,7 +14,6 @@
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5nMGgyNWZiaTE1andyaW42YjU1NXhscHQwbWp3dWw1cXgzemt3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IglQkzvuewsoD6E1Pj/giphy.gif" width="150"/>
       </a>
       <br/>
-      <sub>LeBron having one of those days... 😆</sub>
     </td>
     <td>
 
