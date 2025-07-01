@@ -10,10 +10,11 @@
 <table>
   <tr>
     <td width="200">
-      <a href="https://giphy.com/gifs/IglQkzvuewsoD6E1Pj">
+      <a href="https://giphy.com/gifs/l41YhmC0hIcAqC3sY">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRiZTBqOTdkZTRsYmc3ZmZlY2FrdzYyNTFlcmJyY2J6dWJwZ21zayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YhmC0hIcAqC3sY/giphy.gif" width="150"/>
       </a>
       <br/>
+      <sub>Just vibing... 😆</sub>
     </td>
     <td>
 
