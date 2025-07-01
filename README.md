@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td width="200">
-      <a href="https://giphy.com/gifs/IglQkzvuewsoD6E1Pj">
+      <a href="[https://giphy.com/gifs/IglQkzvuewsoD6E1Pj](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRiZTBqOTdkZTRsYmc3ZmZlY2FrdzYyNTFlcmJyY2J6dWJwZ21zayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YhmC0hIcAqC3sY/giphy.gif)">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5nMGgyNWZiaTE1andyaW42YjU1NXhscHQwbWp3dWw1cXgzemt3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IglQkzvuewsoD6E1Pj/giphy.gif" width="150"/>
       </a>
       <br/>
