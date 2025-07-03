@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🎓 Computer Science Student passionate about full-stack development, data science, and building tools that make life more efficient.
+  coding and getting ragebaited by leetcode daily
 </p>
 
 ---
