@@ -2,12 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Youdahe" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://giphy.com/gifs/ryKkajMOMjYCQ">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXU3aDB0d3dkMjRsY2RycWxkZnd0cHQ3MThqa3k5eXJtZjg1a3QxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/34tTvrt0nIhZbcBvp6/giphy.gif" width="400"/>
-  </a>
-</p>
-
+![Funny GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlxbG12OTUyY2ttYTRoeGtkdTVzN29hOGszY2FzbDBsNWFkMWtyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfPE0x5gfa5ctKpph6/giphy.gif)
 <p align="center">
   coding and getting ragebaited by leetcode daily
 </p>
