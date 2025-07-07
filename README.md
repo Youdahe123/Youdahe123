@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Youdahe" alt="Typing SVG" />
 </p>
 
-![Funny GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlxbG12OTUyY2ttYTRoeGtkdTVzN29hOGszY2FzbDBsNWFkMWtyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfPE0x5gfa5ctKpph6/giphy.gif)
+
 <p align="center">
   coding and getting ragebaited by leetcode daily
 </p>
