@@ -4,7 +4,6 @@
 
 
 <p align="center">
-  coding and getting ragebaited by leetcode daily
 </p>
 
 ---
