@@ -1,11 +1,7 @@
-hello, I'm Youdahe! I'm a third-year Computer Science student at Minnesota State University, Mankato. I dabble in startups, enterprise software engineering, and machine learning research.
+Hey, I'm Youdahe! I'm a third-year Computer Science student at Minnesota State University, Mankato, interested in startups, AI infrastructure, and machine learning research.
 
-On the startup side, I've worked with multiple VC-backed companies building production-grade AI infrastructure, including distributed LLM inference systems, multi-agent orchestration frameworks, reinforcement learning pipelines, and automated AI agent evaluation systems. My work spans optimizing inference latency and throughput, designing scalable asynchronous processing architectures, building retrieval-augmented generation pipelines, and engineering end-to-end AI email agents with tool calling, structured reasoning, persistent memory, and autonomous workflow execution.
+I've built AI systems at VC-backed startups, founded docere (an AI education startup that raised $25K and reached 500 users), and worked at Medtronic, Medica, Liberty Mutual, and NMDP.
 
-I also founded docere, a startup building self-improving AI agents for personalized education. We explored agentic architectures combining LLM-based reasoning, adaptive learning, retrieval-augmented generation, and iterative feedback loops to build AI systems capable of dynamically adapting to individual students. I raised $25K and grew the platform to 500 users across multiple Minnesota schools.
+My research focuses on accessible AI for visually impaired users, with work published through Johns Hopkins, UChicago, and the University of Minnesota.
 
-On the enterprise side, I've worked at Medtronic, Medica, and Liberty Mutual on systems spanning surgical telemedicine, enterprise AI agents, and automated email workflows. I'm currently working with NMDP on high-performance matching infrastructure, focusing on low-latency, high-concurrency, high-throughput distributed systems, efficient data processing, and performance optimization for large-scale matching workloads.
-
-On the research side, I've explored how machine learning and multimodal AI can make technology more accessible. My work focuses on enabling blind and visually impaired users to complete complex PDF forms entirely through voice, combining document understanding, computer vision, natural language processing, and conversational AI to translate unstructured documents into accessible, interactive workflows. This research has been published through Johns Hopkins University, the University of Chicago, and the University of Minnesota.
-
-If you'd like to learn more about my work, projects, or research, feel free to visit my website!
+Check out my website to learn more!
