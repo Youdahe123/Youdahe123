@@ -1,65 +1,75 @@
 Hey, I'm Youdahe (pronounced "You-dA-he").
 
-Third-year Computer Science student at Minnesota State University, Mankato. I'm interested in distributed systems, database internals, AI infrastructure, and the engineering decisions that eventually become someone else's production incident.
+Third-year Computer Science student at Minnesota State University, Mankato. I'm interested in distributed systems, database internals, AI infrastructure, and building reliable systems that solve real-world problems.
 
-Currently @ NMDP, decomposing legacy C# monoliths into independently deployable Java microservices. My work spans distributed service architecture, API contract design, backend infrastructure, and modernizing enterprise systems without breaking the things people depend on.
+Currently @ NMDP, decomposing legacy C# monoliths into independently deployable Java microservices. My work spans distributed service architecture, API contract design, backend infrastructure, and modernizing enterprise systems while maintaining reliability across critical production workflows.
 
-Turns out distributed systems are just monoliths with network latency and trust issues.
+Previously, I've worked across enterprise infrastructure, agentic AI, and medical technology.
 
-Previously, I've worked across enterprise infrastructure, agentic AI, and medical technology:
+Liberty Mutual | Reliability Excellence Engineering (REX)
 
-Liberty Mutual | Middleware Modernization
+Worked on the Reliability Excellence Engineering (REX) team, building internal tooling to support the modernization of enterprise messaging infrastructure.
 
-Worked on the Midway Modernization initiative, focused on modernizing enterprise middleware infrastructure and the integration layers connecting legacy systems with modern backend services. The work involved navigating complex service dependencies, interoperability challenges, and architectural decisions around reliability, scalability, and maintainability.
+Developed an internal tool to automate and streamline the retirement of legacy IBM MQ infrastructure, enabling message queues to be decommissioned safely and at scale. The work focused on reducing operational risk, managing dependencies between distributed services, and ensuring reliability throughout the migration process.
+
+Contributed to Liberty Mutual's broader transition from on-premises infrastructure to cloud-based systems, helping reduce reliance on legacy middleware and improve the scalability and maintainability of enterprise infrastructure.
 
 Medica | Agentic AI Infrastructure & LLM Evaluation
 
-Contributed to Medica's first agentic AI onboarding platform, exploring how autonomous AI agents and LLM-powered workflows could transform enterprise onboarding processes. Also worked on LLM evaluation frameworks, focusing on systematically assessing model behavior, response quality, reliability, and the effectiveness of AI-driven workflows.
+Built an AI-powered onboarding agent designed to help new employees navigate internal resources, ask questions, and get relevant guidance through natural language conversations.
+
+Developed conversational workflows that supported multi-turn interactions, conversation summarization and compression, and context management to maintain continuity across extended exchanges. The agent could interpret employee questions, route requests to relevant resources, and provide context-aware responses.
+
+Also worked on LLM evaluation frameworks to assess model behavior, response quality, and reliability across agentic workflows.
+
+The platform helped streamline employee onboarding by reducing the effort required to find information, improving access to internal knowledge, and demonstrating how agentic AI systems could automate repetitive enterprise workflows.
 
 Medtronic | Surgical Intelligence & Medical Data Infrastructure
 
-Worked on surgical summit recommendation systems and medical data infrastructure, exploring how structured medical information and intelligent recommendation pipelines could support surgical decision-making workflows. The work involved healthcare data processing, backend infrastructure, and designing systems around the reliability and complexity of medical information.
+Worked on surgical summit recommendation systems and medical data infrastructure, focusing on how structured medical information and intelligent recommendation pipelines could support surgical decision-making workflows.
+
+Contributed to healthcare data processing and backend infrastructure, with an emphasis on organizing complex medical information and building reliable systems for retrieving and recommending relevant data.
+
+The work explored how data-driven systems could improve access to medical information and support more efficient clinical and surgical workflows.
 
 Some of my favorite projects:
 
 youdaheDB | Database Engine From Scratch
 
-Built a database from scratch, diving into storage engine architecture, data persistence, indexing, query execution, and the internals that make database systems work.
+Built a database engine from scratch to explore the internals of modern database systems, including storage engine architecture, data persistence, indexing, and query execution.
 
-30+ GitHub stars and an unreasonable amount of time thinking about how bytes become queries.
+The project focuses on understanding how databases manage data at the storage level and translate queries into efficient operations.
+
+Earned 30+ GitHub stars and provided hands-on experience with the fundamental engineering tradeoffs behind database performance, storage efficiency, and query processing.
 
 Kafka One-Time Message Shatter | Distributed Messaging
 
-Built a project exploring distributed message processing with Apache Kafka, focusing on one-time message delivery, event-driven architecture, and the challenges of coordinating message consumption across distributed systems.
+Built a distributed messaging project using Apache Kafka to explore event-driven architectures, message consumption, and delivery semantics across distributed systems.
 
-Because apparently debugging concurrency wasn't difficult enough without introducing a message broker.
+Focused on coordinating message processing, handling concurrency, and understanding the reliability challenges that emerge when multiple consumers interact with a distributed message broker.
+
+The project provided practical experience with distributed messaging infrastructure and the tradeoffs involved in building reliable, scalable event-processing systems.
 
 docere | EdTech Startup
 
-Founded an EdTech startup that grew to 500+ students and raised $25K+.
+Founded docere, an education technology startup focused on making learning resources more accessible to students.
 
-Worked across product engineering, platform development, and scaling the technical infrastructure behind an education-focused product.
+Worked across product engineering, platform development, and the technical infrastructure required to support a growing user base.
 
-Discovered that scaling a business doesn't come with horizontal autoscaling.
+Scaled the platform to 500+ students and raised over $25K in funding, demonstrating the ability to take a technical product from an initial concept to a platform serving real users.
 
-Phil.AI | AI Accessibility Research
+Fill.ai | AI-Powered Document Accessibility Research
 
-Developed an AI-powered PDF form-filling system focused on improving accessibility for blind and visually impaired users.
+Developed Fill.ai, an AI-powered PDF form-filling system designed to make traditionally inaccessible document workflows usable for blind and visually impaired individuals.
 
-The project explored how AI-assisted document processing, intelligent form interpretation, and accessible user interfaces could reduce barriers when interacting with traditionally inaccessible PDF workflows.
+The project originated from an accessibility research initiative conducted through a professor who was visually impaired, providing a direct connection between the technical research and the accessibility challenges the system aimed to address.
 
-Phil.AI was part of a broader research initiative exploring accessible computing and ways to help blind and visually impaired individuals learn to code.
+Focused on building an intelligent document-processing pipeline that could interpret PDF form structures, identify input fields, understand their semantic relationships, and support natural language interaction with document content.
 
-The research involved Flint, Million, Guarion, and Xalvia through a collaboration between Minnesota State University, Mankato, and Gustavus Adolphus College.
+Explored the use of large language models for contextual field interpretation, AI-assisted information extraction, and mapping user-provided information to structured document fields. The system aimed to bridge the gap between unstructured document layouts and the structured information required to complete forms accurately.
 
-The work was presented at Johns Hopkins University, the University of Chicago, and the University of Minnesota.
+The broader engineering challenge involved combining document parsing, semantic understanding, and accessible interaction patterns into a workflow that reduced dependence on visual navigation.
 
-Outside of engineering, I'm usually playing basketball, traveling, or exploring somewhere new.
+Fill.ai aimed to help blind and visually impaired users complete PDF forms more independently, reducing the accessibility barriers created by documents that rely heavily on visual layouts and manual field navigation.
 
-Recently visited Japan. Excellent food, impressive infrastructure, significantly better uptime than my side projects.
-
-Currently optimizing for interesting problems, low-latency learningResearch, and occasionally touching grass.
-
-Feel freeHour: to explore my projects, especially youda Research intern focused on AI accessibilityheDB for visually impaired users, with publications through Johns, Hopkins Kafka One-Time Message Sh, UChicago, and the Universityatter of, doc Minnesotaere., and Phil.AI.
-
-Bug reports are welcome. Production incidents are not.
+The work was part of a broader research initiative exploring accessible computing, assistive AI, and technologies that could help blind and visually impaired individuals interact with software and learn to code.
