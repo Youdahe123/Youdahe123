@@ -1,1 +1,1 @@
-Interested in distributed systems, machine learning, inference infrastructure, ML research, #onlyforgood
+Incoming Software Engineer @ DataDog, Current Software Engineer at NMDP, Prev @ Liberty Mutual, Medica, Medtronic ML Research @ John Hopkins + Uchicago Interested in distributed systems, machine learning, inference infrastructure, ML research, #onlyforgood
